@@ -1,2 +1,2 @@
 # Music-Generation-genetic-algorithms-
-# The project generates music using Particle Swarm Optimization
+### The project generates music using Particle Swarm Optimization
